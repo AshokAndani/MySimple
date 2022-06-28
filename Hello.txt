@@ -1,2 +1,2 @@
-Hello Main
+Hello Main changed in remote
 stash init
